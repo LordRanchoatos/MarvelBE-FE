@@ -96,5 +96,17 @@ export const data = {
       numReviews: 10,
       description: "flagship made by Marvel",
     },
+    {
+      _id: "9",
+      name: "Marvel 2Pro",
+      category: "Phones",
+      image: "/images/product-1.jpg",
+      price: 6477,
+      brand: "Marvel",
+      countInStock: 20,
+      rating: 3,
+      numReviews: 10,
+      description: "flagship made by Marvel",
+    },
   ],
 };
